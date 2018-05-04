@@ -1,0 +1,12 @@
+{'sci.med': 500, 'sci.space': 500, 'rec.sport.hockey': 500, 'talk.politics.misc': 500, 'comp.graphics': 500}
+Training completed
+95.08
+{'sci.med': 700, 'sci.space': 700, 'rec.sport.hockey': 700, 'talk.politics.misc': 700, 'comp.graphics': 700}
+Training completed
+96.4
+{'sci.med': 800, 'sci.space': 800, 'rec.sport.hockey': 800, 'talk.politics.misc': 800, 'comp.graphics': 800}
+Training completed
+96.7
+{'sci.med': 900, 'sci.space': 900, 'rec.sport.hockey': 900, 'talk.politics.misc': 900, 'comp.graphics': 900}
+Training completed
+97.0
